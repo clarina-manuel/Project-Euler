@@ -12,4 +12,4 @@ while(count < 1000){
   }
 }
 
-System.out.println(count);
+System.out.println(sum);
