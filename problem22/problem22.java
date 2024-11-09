@@ -7,14 +7,12 @@ public static void main(String[] args){
   
   int totalSum = 0;
   
-  for (count = 0; count < nameArray.length; count++){
+  for (int count = 0; count < nameArray.length; count++){
     totalSum += getNameScore(count, nameArray);
   }
   
   System.out.println(totalSum);
 }
-
-
 
 //get the score of the letters
 public static int getNameScore(int nameIndex, String[] array){
