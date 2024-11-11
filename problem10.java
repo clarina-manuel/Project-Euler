@@ -1,4 +1,6 @@
 //Summation of Primes
+//Find the sum of all the primes below two million.
+//https://projecteuler.net/problem=10
 
 public static void main(String[] args){
   int count = 1;
