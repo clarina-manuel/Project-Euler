@@ -1,4 +1,6 @@
 //10001st Prime
+//What is the 10001st prime number?
+//https://projecteuler.net/problem=7
 
 public static void main(String[] args){
   int thePrime = 1;
