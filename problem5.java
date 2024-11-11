@@ -1,4 +1,6 @@
 //Smallest Multiple
+//What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? 
+//https://projecteuler.net/problem=5
 
 int multiple = 2520;
 boolean isMultiple = false;
