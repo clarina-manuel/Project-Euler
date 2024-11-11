@@ -1,4 +1,7 @@
 //Collatz Sequence
+//Which starting number, under one million, produces the longest chain?
+//https://projecteuler.net/problem=14
+
 public static void main(String[] args){
   int maxSequence = 0;
   int maxStart = 0;
