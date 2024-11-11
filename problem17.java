@@ -1,4 +1,6 @@
 //Number Letter Counts
+//If all the numbers from to 1 - 1000 inclusive were written out in words, how many letters would be used?
+//https://projecteuler.net/problem=17
 
 int sum [];
 int numFirst10 = [3, 3, 5, 4, 4, 3, 5, 5, 4, 3]; //1-10
