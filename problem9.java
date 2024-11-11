@@ -1,4 +1,7 @@
 //Special Pythagorean Triplet
+//There exists exactly one Pythagorean triplet for which a+b+c = 1000. Find the product of abc.
+//https://projecteuler.net/problem=9
+
 int sum = 1000;
 int a = 0;
 int b = 0;
