@@ -1,4 +1,6 @@
 //Maximum Path Sum
+//Find the maximum total from top to bottom of the triangle below
+//https://projecteuler.net/problem=18
 
 public static void main(String[] args){
   //one big array for all the other arrays
